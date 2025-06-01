@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Button } from "@spirit-ui/react";
 
 export default function Page() {
   return (
