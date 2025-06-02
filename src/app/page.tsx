@@ -1,6 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
-import { twMerge } from 'tailwind-merge';
 
 import { ProfileHero } from '../components/profile-hero';
 import { ProjectCard } from '../components/project-card';
